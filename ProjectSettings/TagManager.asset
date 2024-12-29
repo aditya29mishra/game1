@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - blocks
   - Water
   - UI
-  - 
-  - 
+  - Anchor
+  - click
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: anchor
+    uniqueID: 2647909017
+    locked: 0
+  - name: block
+    uniqueID: 3053699935
+    locked: 0
+  - name: block1
+    uniqueID: 3039437605
+    locked: 0
+  - name: click
+    uniqueID: 1463837635
     locked: 0
